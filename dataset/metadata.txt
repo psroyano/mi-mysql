@@ -1,0 +1,5 @@
+Dataset descargado kaggle
+https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
+Licencia: CC0: Public Domain
+
